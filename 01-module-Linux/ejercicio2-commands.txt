@@ -1,0 +1,3 @@
+touch 02_lemon-code.sh
+vim 02_lemon-code.sh
+chmod ug+x 02_lemon-code.sh
